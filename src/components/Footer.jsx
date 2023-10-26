@@ -26,13 +26,13 @@ export default function Footer() {
       </ul>
       <ul className="social__links">
       <li>
-          <a href="#testimonials">+963986417169</a>
+          <a href="https://wa.me/+4915750962657">+4915750962657</a>
         </li>
         <li>
-          <BsFacebook className="face"/>
+       <a href="https://www.facebook.com/profile.php?id=61551560332714&mibextid=MKOS29">      <BsFacebook className="face"/> </a>
         </li>
         <li>
-          <BsInstagram className="insta" />
+      <a href="https://instagram.com/jadumzugs?igshid=ZGUzMzM3NWJiOQ==">    <BsInstagram className="insta"/></a>
         </li>
    
       </ul>

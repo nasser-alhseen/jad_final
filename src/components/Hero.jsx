@@ -50,16 +50,35 @@ export default function Hero() {
 
     `;
 
-    const phoneNumber = '+963992670932'; // Replace with the recipient's phone number
+    const phoneNumber = '+4915750962657'; // Replace with the recipient's phone number
     const messageText = encodeURIComponent("");
     const link = `https://wa.me/${phoneNumber}?text=${whatsAppMessage}`;
     window.open(link, '_blank');
   }
   function handleSendClickGmail() {
-    const recipientEmail = 'example@gmail.com'; // Replace with the recipient's email address
+    const formattedDate=dateFormat(selectedDate, "d, m, yyyy");
+    const formattedTime=dateFormat(selectedTime, "h:MM TT");
+
+    const whatsAppMessage=`
+    ${currenAddress}
+    \n
+    ${desiredAdress}
+    \n
+
+    ${items}
+    \n
+
+    ${formattedDate}
+    \n
+
+    ${formattedTime}
+    \n
+
+    `;
+    const recipientEmail = 'jadmaxumzugsservice@gmail.com'; // Replace with the recipient's email address
     const subject = encodeURIComponent(''); // Replace with your subject text
     const body = encodeURIComponent(''); // Replace with your body text
-    const link = `https://mail.google.com/mail/?view=cm&to=${recipientEmail}&su=${subject}&body=${body}`;
+    const link = `https://mail.google.com/mail/?view=cm&to=${recipientEmail}&su=jad umzugs&body=${whatsAppMessage}`;
     window.open(link, '_blank');
   }
 
