@@ -22,12 +22,13 @@ export default function Footer() {
         <li>
           <a href="#testimonials">{t("testimonials")}</a>
         </li>
+        <li>
+          <a href="https://wa.me/+4915750962657">+4915750962657</a>
+        </li>
        
       </ul>
       <ul className="social__links">
-      <li>
-          <a href="https://wa.me/+4915750962657">+4915750962657</a>
-        </li>
+     
         <li>
        <a href="https://www.facebook.com/profile.php?id=61551560332714&mibextid=MKOS29">      <BsFacebook className="face"/> </a>
         </li>
