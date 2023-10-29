@@ -57,7 +57,7 @@ i18n
       },
       du: {
         translation: {
-          "home": "الصفحة الرئيسية",
+          "home": "Startseite",
           "services": "Dienstleistungen",
           "gallery": "Fotogalerie",
           "testimonials": "Kundenbewertungen",

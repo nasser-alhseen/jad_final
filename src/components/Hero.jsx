@@ -207,6 +207,7 @@ export default function Hero() {
                 setSelectedTime(time);
             
               }}
+              ampm={false}
                 sx={{
                   '& .MuiInputBase-root': {
                     height: '32px',
