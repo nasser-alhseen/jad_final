@@ -5,7 +5,7 @@ import '../i18next'
 import homeImage from "../assets/mainBackground.jpg";
 import Navbar from "./Navbar2";
 import { TextField } from "@material-ui/core";
-import { DatePicker, TimePicker } from "@mui/x-date-pickers";
+import { DatePicker, TimePicker ,DesktopTimePicker} from "@mui/x-date-pickers";
 import { useTranslation, withTranslation, Trans } from 'react-i18next';
 import { format } from 'date-fns';
 
@@ -200,7 +200,7 @@ export default function Hero() {
                 }}              ></DatePicker>
               <label htmlFor="">{t('choose_time')}
               </label>
-              <TimePicker
+              <DesktopTimePicker
               value={selectedTime}
               onChange={(time) => {
 
@@ -208,7 +208,6 @@ export default function Hero() {
             
               }}
               ampm={false}
-              variant="Desktop"
                 sx={{
                   '& .MuiInputBase-root': {
                     height: '32px',
@@ -218,7 +217,7 @@ export default function Hero() {
                     width: '12rem'
                   },
                 }}
-              ></TimePicker>
+              ></DesktopTimePicker>
             </div>
 
 
