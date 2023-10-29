@@ -28,7 +28,7 @@ i18n
           "name": "Name",
           "review": "Review",
           "happe_customers": "Happy Customers ",
-          "about_us": "Welcome to JadUmZuge! We are a small relocation company that assists people in moving to new homes in Germany. Our aim is to provide exceptional and reliable service to our clients, making the moving process an easy and comfortable experience. Depending on your needs, we offer packing and moving services, as well as assistance with arranging your new home. Contact us today for a free consultation and an efficient moving experience to your new home.",
+          "about_us": "Welcome to JAD Umzugs! We are a small transportation and relocation company that assists individuals in moving to new homes in Germany. Our goal is to provide exceptional and reliable service to our clients, making the moving process easy and comfortable. Depending on your needs, we offer packing and unpacking services, transportation, and arrangement in the new home. By submitting your data through this form, you acknowledge that the website owner will collect and process your data for the purposes outlined in the website's Privacy Policy. However, your data will not be stored by the website owner. Contact us today for a free consultation and a smooth moving experience to your new home.",
           "copy_rights": "Copyright © 2023 JadUmZug. All rights reserved"
 
         }
@@ -51,7 +51,7 @@ i18n
           "name": "الاسم",
           "review": "مراجعة",
           "happe_customers": "زبائن سعداء",
-          "about_us": "مرحبًا بك في شركة جاد للنقل ! نحن شركة صغيرة للنقل والترحيل نساعد الأشخاص في الانتقال إلى منازل جديدة في ألمانيا. نهدف إلى تقديم خدمة استثنائية وموثوقة لعملائنا، وجعل عملية الانتقال تجربة سهلة ومريحة. اعتمادًا على احتياجاتك، نوفر خدمات التعبئة والتغليف، والنقل، والترتيب في المنزل الجديد. اتصل بنا اليوم للحصول على استشارة مجانية وتجربة فعالة للانتقال إلى منزلك الجديد.",
+          "about_us": "مرحبًا بك في شركة جاد للنقل ! نحن شركة صغيرة للنقل والترحيل نساعد الأشخاص في الانتقال إلى منازل جديدة في ألمانيا. نهدف إلى تقديم خدمة استثنائية وموثوقة لعملائنا، وجعل عملية الانتقال تجربة سهلة ومريحة. اعتمادًا على احتياجاتك، نوفر خدمات التعبئة والتغليف، والنقل، والترتيب في المنزل الجديد.بإرسال بياناتك من خلال هذا النموذج، فإنك تقر بأن صاحب الموقع سيقوم بجمع ومعالجة بياناتك للأغراض المبينة في سياسة الخصوصية الخاصة بالموقع. ومع ذلك، فلن يتم تخزين بياناتك من قبل صاحب الموقع. اتصل بنا اليوم للحصول على استشارة مجانية وتجربة فعالة للانتقال إلى منزلك الجديد",
           "copy_rights": "جميع الحقوق محفوظة © 2023 JadUmZug"
         }
       },
@@ -72,7 +72,7 @@ i18n
           "name": "Name",
           "review": "Bewertung",
           "happe_customers": "Zufriedene Kunden",
-          "about_us": "Willkommen bei JadUmZuge! Wir sind ein kleines Umzugsunternehmen, das Menschen beim Umzug in neue Häuser in Deutschland hilft. Unser Ziel ist es, unseren Kunden einen außergewöhnlichen und zuverlässigen Service zu bieten und den Umzugsprozess zu einer einfachen und komfortablen Erfahrung zu machen. Je nach Ihren Bedürfnissen bieten wir Verpackungs- und Umzugsservices sowie Hilfe beim Einrichten in Ihrem neuen Zuhause an. Kontaktieren Sie uns noch heute für eine kostenlose Beratung und eine effiziente Umzugserfahrung in Ihr neues Zuhause.",
+          "about_us": "Willkommen bei JAD Umzugs! Wir sind ein kleines Transport- und Umzugsunternehmen, das Einzelpersonen beim Umzug in neue Häuser in Deutschland unterstützt. Unser Ziel ist es, unseren Kunden außergewöhnlichen und zuverlässigen Service zu bieten und den Umzugsprozess einfach und komfortabel zu gestalten. Je nach Ihren Bedürfnissen bieten wir Verpackungs- und Entpackungsdienste, Transport und Einrichtung im neuen Zuhause an. Durch die Übermittlung Ihrer Daten über dieses Formular bestätigen Sie, dass der Website-Betreiber Ihre Daten gemäß der Datenschutzrichtlinie der Website erheben und verarbeiten wird. Ihre Daten werden jedoch nicht vom Website-Betreiber gespeichert. Kontaktieren Sie uns noch heute für eine kostenlose Beratung und eine reibungslose Umzugserfahrung in Ihr neues Zuhause.",
           "copy_rights": "Copyright © 2023 JadUmZug. Alle Rechte vorbehalten."
         }
       }
