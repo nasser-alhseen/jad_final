@@ -208,6 +208,7 @@ export default function Hero() {
             
               }}
               ampm={false}
+              variant="Desktop"
                 sx={{
                   '& .MuiInputBase-root': {
                     height: '32px',
